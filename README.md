@@ -15,6 +15,10 @@ exploratory data analysis, feature engineering, model training, and evaluation.
 -> Cross-validation and performance evaluation
 
 ## Projects
--> Titanic - Machine Learning from Disaster (classification)
-
 These projects reflect a quantitative, data-driven approach to problem solving.
+
+### Titanic - Machine Learning from Disaster (classification)
+- **Approach**: Feature engineering with title extraction, cabin deck analysis, and family size
+- **Models**: Random Forest (80.4%) vs XGBoost (82.2%)
+- **Result**: 82.16% cross-validation accuracy
+- [View notebook](lukekubi-xgb-titanic-feb26.ipynb)

@@ -16,6 +16,5 @@ exploratory data analysis, feature engineering, model training, and evaluation.
 
 ## Projects
 - Titanic Survival Prediction (classification)
-- [Add others as you upload them]
 
 These projects reflect a quantitative, data-driven approach to problem solving.

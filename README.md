@@ -8,13 +8,13 @@ The goal of these projects is to practice end-to-end ML workflows, including
 exploratory data analysis, feature engineering, model training, and evaluation.
 
 ## Tools & Methods
-- Python (pandas, NumPy)
-- scikit-learn
-- Jupyter notebooks
-- Supervised learning models (classification and regression)
-- Cross-validation and performance evaluation
+-> Python (pandas, NumPy)
+-> scikit-learn
+-> Jupyter notebooks
+-> Supervised learning models (classification and regression)
+-> Cross-validation and performance evaluation
 
 ## Projects
-- Titanic Survival Prediction (classification)
+-> Titanic - Machine Learning from Disaster (classification)
 
 These projects reflect a quantitative, data-driven approach to problem solving.
